@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Silicon Partners](https://www.thesiliconpartners.com//)
 
-- 📫 How to reach me **williamkoller30@gmail.com**
+- 📫 How to reach me **pvmerlo@gmail.com**
 
 <div>
   <a href="https://github.com/pvmerlo">
